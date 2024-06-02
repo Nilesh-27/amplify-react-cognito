@@ -1,5 +1,4 @@
 # amplify-react-cognito<img width="1327" alt="Screenshot 2024-06-02 at 3 15 39 PM" src="https://github.com/Nilesh-27/amplify-react-cognito/assets/110710201/6e69cf65-ea00-4a54-a83b-2fcae49ecf7b">
-<img width="1327" alt="Screenshot 2024-06-02 at 3 16 54 PM" src="https://github.com/Nilesh-27/amplify-react-cognito/assets/110710201/6937dea1-6ca9-4a05-8a05-35cfc89b3a7a">
 
 And now create an account.<img width="1327" alt="Screenshot 2024-06-02 at 3 18 57 PM" src="https://github.com/Nilesh-27/amplify-react-cognito/assets/110710201/208f6746-380b-460c-9ba4-7d38a7130cec">
 
